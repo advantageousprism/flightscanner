@@ -1,0 +1,8 @@
+{
+  "app": "AeroGuard",
+  "repository": "https://github.com/advantageousprism/flightscanner",
+  "exportedAt": "2026-11-12T04:00:18.117Z",
+  "secretsIncluded": false,
+  "trackersCount": 3,
+  "airportsCount": 40
+}
