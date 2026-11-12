@@ -1,8 +1,8 @@
 {
   "app": "AeroGuard",
+  "engine": "Duffel NDC + SerpApi Google Flights",
   "repository": "https://github.com/advantageousprism/flightscanner",
-  "exportedAt": "2026-11-12T04:00:18.117Z",
+  "exportedAt": "2026-11-12T20:53:09.667Z",
   "secretsIncluded": false,
-  "trackersCount": 3,
-  "airportsCount": 40
+  "trackersCount": 2
 }
