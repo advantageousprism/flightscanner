@@ -1,0 +1,6 @@
+{
+  "appId": "com.aeroguard.ai",
+  "appName": "AeroGuard",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
